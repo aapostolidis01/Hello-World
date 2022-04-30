@@ -1,6 +1,6 @@
-//"use strict";
+"use strict";
 let btn = document.querySelector('button').onclick = 
-
+ 
 
 function Start(){
  let res ='10011101'
